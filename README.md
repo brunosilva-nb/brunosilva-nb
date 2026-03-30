@@ -1,16 +1,18 @@
-## Hi there 👋
+Olá, eu sou o Bruno Silva! 👋
 
-<!--
-**brunosilva-nb/brunosilva-nb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Estudante de Engenharia da Computação (5º semestre) na Fainor.  
+🛠️ Atualmente atuando como Auxiliar de TI, com foco em suporte técnico e infraestrutura.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🧠 Foco Atual
+Desenvolvimento: Java, C++, JavaScript e lógica de programação[cite: 18, 19, 20, 21].
+Qualidade de Software (QA): Estudando processos de análise, modelagem de testes e reporte de bugs.
+Hardware & Redes: Experiência com manutenção preventiva e apoio na administração de redes.
+
+🛠️ Tecnologias e Ferramentas
+- Linguagens: Java, C++, JavaScript, HTML5, CSS3.
+- Sistemas: Suporte técnico e Manutenção de Hardware.
+- Idiomas: Português (Nativo) e Inglês Intermediário (Leitura Técnica).
+
+---
