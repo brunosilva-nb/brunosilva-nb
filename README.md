@@ -6,7 +6,7 @@ Olá, eu sou o Bruno Silva! 👋
 ---
 
 🧠 Foco Atual
-Desenvolvimento: Java, C++, JavaScript e lógica de programação[cite: 18, 19, 20, 21].
+Desenvolvimento: Java, C++, JavaScript e lógica de programação.
 Qualidade de Software (QA): Estudando processos de análise, modelagem de testes e reporte de bugs.
 Hardware & Redes: Experiência com manutenção preventiva e apoio na administração de redes.
 
