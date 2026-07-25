@@ -1,6 +1,6 @@
 Olá, eu sou o Bruno Silva! 👋
 
-🚀 Estudante de Engenharia da Computação (5º semestre) na Fainor.  
+🚀 Estudante de Engenharia da Computação na Fainor.  
 🛠️ Atualmente atuando como Auxiliar de TI, com foco em suporte técnico e infraestrutura.
 
 ---
